@@ -24,17 +24,17 @@ Contraste: el  diseño contiene una diferenciación entre elementos, ya que util
     Fuente poppins
     Fuente laton para el formulario
 
-- Iconografia:
+- Iconografía: tenemos un boton llamado "Postula aquí" donde te lleva al formulario de postulación. 
 
 
 
-## heuristicas de Usabilidad
+## Heurísticas de Usabilidad
 
  1. Visibilidad del estado de sistema
-    Esta pagina fue diseñada pensando en la satidfacioón del usuario por ende la aplicación mantiene siempre imformado al usuraio de lo que esta ocurriendo y brindarle una respuesta en el menor tiempo posible.
+    Esta pagina fue diseñada pensando en la satisfación del usuario por ende el sitio web  mantiene siempre imformado al usuraio de lo que esta ocurriendo y brindarle una respuesta en el menor tiempo posible.
 
  2. Relación entre el sistema y el mundo
-    Esta aplicación usa el
+    Este sitio web  usa el
     idioma del usuario, con
     expresiones y definiciones que le
     resulten familiares. La
@@ -45,9 +45,9 @@ Contraste: el  diseño contiene una diferenciación entre elementos, ya que util
     Si al hacer uso de la aplicación y el usuario escoge una opcion de forma erronea dispone de una "salida de emergencia" parra salir de donde se encuentre .
  
  4. Reconocer antes de recordar
-    En esta aplicacion hacemos visibles las opciones para el usuario no enga que recordar información entre distintas secciones o partes de la aplicación.
+    En este sitio web  hacemos visibles las opciones para el usuario no enga que recordar información entre distintas secciones o partes de la aplicación.
 
  5. Diseño estetico y minimalista
-    Esta aplicación se tuvo cuidado en no utilizar informacion innecesaria .
+    Este sitio web se tuvo cuidado en no utilizar informacion innecesaria .
 
 
