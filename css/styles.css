@@ -3,7 +3,7 @@ body{
 }
 .jumbotron bg-portada {
 
-    background-image: "img/imagen03.jpg" !important;
+    background-image: "img/imagen01.jpg" !important;
 }
 .formulario{
     font-family: 'lato'!important;
@@ -59,7 +59,7 @@ body{
 }
 
 .bg-portada{
-    background: url(img/imagen03.jpg);
+    background-image: url(../img/imagen02.jpg);
     background-size: cover;
 }
 .foo{
